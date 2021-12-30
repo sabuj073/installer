@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.849a7e66.chunk.css",
+    "main.js": "/static/js/main.ce04778e.chunk.js",
+    "main.js.map": "/static/js/main.ce04778e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ead09010.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ead09010.js.map",
+    "static/css/2.ba4625b5.chunk.css": "/static/css/2.ba4625b5.chunk.css",
+    "static/js/2.87105cc2.chunk.js": "/static/js/2.87105cc2.chunk.js",
+    "static/js/2.87105cc2.chunk.js.map": "/static/js/2.87105cc2.chunk.js.map",
+    "static/js/3.272cec46.chunk.js": "/static/js/3.272cec46.chunk.js",
+    "static/js/3.272cec46.chunk.js.map": "/static/js/3.272cec46.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ba4625b5.chunk.css.map": "/static/css/2.ba4625b5.chunk.css.map",
+    "static/css/main.849a7e66.chunk.css.map": "/static/css/main.849a7e66.chunk.css.map",
+    "static/js/2.87105cc2.chunk.js.LICENSE.txt": "/static/js/2.87105cc2.chunk.js.LICENSE.txt",
+    "static/media/Voucher-Card.d45093cf.png": "/static/media/Voucher-Card.d45093cf.png",
+    "static/media/avatar.c2a95cb3.png": "/static/media/avatar.c2a95cb3.png",
+    "static/media/background.12c0cbd6.png": "/static/media/background.12c0cbd6.png",
+    "static/media/bg-black.cf32d172.png": "/static/media/bg-black.cf32d172.png",
+    "static/media/HomeSlider.scss": "/static/media/bg.b45253b7.jpg",
+    "static/media/coreValue.0994f89c.png": "/static/media/coreValue.0994f89c.png",
+    "static/media/event.948e1d18.png": "/static/media/event.948e1d18.png",
+    "static/media/money.d497bd2e.svg": "/static/media/money.d497bd2e.svg",
+    "static/media/reunion.16024515.png": "/static/media/reunion.16024515.png",
+    "static/media/submit-content.59f33686.png": "/static/media/submit-content.59f33686.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead09010.js",
+    "static/css/2.ba4625b5.chunk.css",
+    "static/js/2.87105cc2.chunk.js",
+    "static/css/main.849a7e66.chunk.css",
+    "static/js/main.ce04778e.chunk.js"
+  ]
+}
